@@ -1,0 +1,28 @@
+body
+{
+	color: #3f3f3f;
+	font: 80% Helvetica, Geneva, sans-serif;
+	letter-spacing: .2px;
+}
+
+h2
+{
+	font-weight: normal;
+	font-style: normal;
+	text-align: right;
+	font-size: 140%;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+table, th, td
+{
+}
+
+li
+{
+	margin-bottom: 1em;
+}
